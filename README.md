@@ -22,7 +22,7 @@ This repository contains a unified suite of enterprise security control plans, r
 * **Key Focus:** Human risk management, onboarding training programs, quarterly threat communications, and enterprise-wide Acceptable Use Policies (AUP) for Generative AI and Shadow AI prevention.
 
 ### 3. 💾 Data Resilience & Disaster Recovery Backup Plan
-* **Document:** `Backup_Plan.pdf`
+* **Document:** `Enterprise Data Resilience & Disaster Recovery Backup Strategy`
 * **Key Focus:** Operationalizing the 3-2-1 backup rule, daily incremental and weekly full backup strategies, and immutable WORM storage protections for proprietary AI model weights and training datasets.
 
 ### 4. ⚠️ Corporate Cyber Risk & AI Tolerability Assessment
