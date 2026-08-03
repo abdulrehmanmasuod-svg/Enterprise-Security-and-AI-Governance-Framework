@@ -2,7 +2,7 @@
 
 **Author:** Abdulrehman Masuod Rajab  
 **Certifications:** IBM SkillsBuild (GRC & Vulnerability Management) | Generation (AI Generalist)  
-**Credly Badges:** [IBM GRC & Data Privacy](https://www.credly.com/badges/737394f3-1566-4534-9f6f-c2bcf6fc52d1) | [IBM Vulnerability Management](https://www.credly.com/badges/47a66951-0d6a-4937-879c-eef00be955a1)
+**Credly Badges:** [IBM GRC & Data Privacy](https://www.credly.com/badges/737394f3-1566-4534-9f6f-c2bcf6fc52d1) | [IBM Vulnerability Management](https://www.credly.com/badges/47a66951-0d6a-4937-879c-eef00be955a1) | [AI GENERALIST](https://www.credly.com/badges/3a13bb64-058c-4bb6-a79f-16308dd9b0eb/public_url)
 
 ---
 
